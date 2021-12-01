@@ -1,0 +1,47 @@
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+h2 {
+  font-weight: bolder;
+}
+
+#current-temperature-display {
+  font-weight: bolder;
+}
+
+h2,
+h3 {
+  margin: 20px 0px 20px 20px;
+  padding: 20px;
+  border: solid 1px blueviolet;
+  width: 250px;
+}
+
+.col {
+  padding: 20px;
+}
+
+.day-of-week-two {
+  position: relative;
+  bottom: 200px;
+}
+
+div.col-7 {
+  text-align: center;
+}
+
+a {
+  color: blueviolet;
+}
+
+#conversion-links {
+  color: black;
+  font-size: 18px;
+}
