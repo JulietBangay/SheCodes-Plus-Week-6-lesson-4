@@ -46,6 +46,7 @@ a {
   font-size: 18px;
 }
 
-.github-link {
-  text-align: center;
+a.github-link {
+  display: block;
+  margin: 0 auto;
 }
